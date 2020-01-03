@@ -4,8 +4,8 @@
 
 This application features the ability to monitor the current activity of various Cryptocoins and get their market rate in the currency of your choice.
 
-![index](https://user-images.githubusercontent.com/6654513/71701526-256da900-2d87-11ea-9455-57514e21ae78.png)
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71701526-256da900-2d87-11ea-9455-57514e21ae78.png)
 
 ## Application Compiling
 
